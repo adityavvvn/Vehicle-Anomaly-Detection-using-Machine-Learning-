@@ -75,5 +75,3 @@ Modern vehicles are equipped with multiple sensors that monitor **temperature, s
 
 ## **8. Conclusion**  
 Machine learning-based **vehicle anomaly detection** enhances **safety, efficiency, and predictive maintenance** by leveraging sensor data from temperature, sound, and vibrations. Implementing ML models for real-time anomaly detection can **reduce breakdowns, optimize vehicle performance, and improve road safety**.  
-
-Would you like assistance with **Python implementation** of this system? 🚗⚙️📊
